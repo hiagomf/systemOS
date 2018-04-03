@@ -6,6 +6,7 @@ class Inicial extends CI_Controller {
 
     public function index() {
         $this->load->view('navbar');
+        $this->load->view('pagina_inicial');
         $this->load->view('footer');
     }
 
