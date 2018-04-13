@@ -1,9 +1,5 @@
-body {
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-}
-
-main {
-    flex: 1 0 auto;
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url(../img/Background1.png);
 }
